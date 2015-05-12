@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buket>
+	<item type="Flower">
+		<name>Rose</name>
+		<length>50</length>
+		<price>10000</price>
+		<color>White</color>
+		<fresh>OldFresh</fresh>
+	</item>
+	<item type="Flower">
+		<name>Mimoza</name>
+		<length>30</length>
+		<price>15000</price>
+		<color>Yellow</color>
+		<fresh>FullFresh</fresh>
+	</item>
+	<item type="Flower">
+		<name>Rose</name>
+		<length>100</length>
+		<price>20000</price>
+		<color>Red</color>
+		<fresh>MiddleFresh</fresh>
+	</item>
+	<item type="Pine">
+		<name>Vetka</name>
+		<length>50</length>
+		<price>10000</price>
+		<color>null</color>
+		<fresh>OldFresh</fresh>
+	</item>
+	<item type="Pine">
+		<name>Leaf</name>
+		<length>60</length>
+		<price>5000</price>
+		<color>Yellow</color>
+		<fresh>FullFresh</fresh>
+	</item>
+</buket>

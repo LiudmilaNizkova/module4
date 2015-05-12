@@ -1,0 +1,18 @@
+<suite name="TestAll_Suite">
+ 
+	<test name="Test1">
+		<classes>
+			<class name="by.epam.testmodule4.BuketTest" />
+		</classes>
+	</test>
+	<test name="Test2">
+		<classes>
+			<class name="by.epam.testmodule4.ExceptionTest" />
+			<methods>
+				<include name="verifyException" />
+				<exclude name="divisionWithException" />
+			</methods>
+		</classes>
+	</test>
+  
+</suite>

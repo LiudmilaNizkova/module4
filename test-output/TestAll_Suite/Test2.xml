@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="EPBYMINW0918" name="by.epam.testmodule4.ExceptionTest" tests="1" failures="0" timestamp="12 May 2015 15:45:44 GMT" time="0.007" errors="0">
+  <testcase name="verifyException" time="0.003" classname="by.epam.testmodule4.ExceptionTest"/>
+</testsuite>
